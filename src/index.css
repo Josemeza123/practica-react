@@ -1,5 +1,9 @@
-body{
+body {
     background-color: black;
     color: white;
     padding: 2% 3%;
+}
+
+button {
+    margin: 5px;
 }
